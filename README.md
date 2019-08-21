@@ -1,2 +1,2 @@
 # AtlasImage
-Unity UGUI AtlasImage
+[Desc](AtlasImage/README.txt)
