@@ -1,0 +1,11 @@
+Library
+Logs
+Temp
+obj
+.vs
+
+.idea
+*.sln
+*.csproj
+*.iml
+*.iml.meta
