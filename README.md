@@ -1,2 +1,2 @@
 # AtlasImage
-[Desc](AtlasImage/README.txt)
+[Desc](Assets/AtlasImage//README.txt)
